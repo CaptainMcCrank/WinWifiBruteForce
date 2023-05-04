@@ -1,6 +1,13 @@
 # WinWifiBruteForce
-A powershell script for bruteforcing the credential of a wifi network.  This script is useful for Windows Users just getting started on learning about wifi security.
 
+This is intended to be used with the [HackThisWifi project](https://hackthiswifi.patrickmccanna.net)
+
+A powershell script for bruteforcing the credential of a wifi network.  This script is useful for Windows Users just getting started on learning about wifi security.  
+
+This is intended to be used with the [HackThisWifi project](https://hackthiswifi.patrickmccanna.net)
+
+
+## Script Overview
 This script reads a passwords list.  
 
 It creates a wifi profile xml file for a windows netsh command.  
@@ -47,8 +54,6 @@ git clone https://github.com/CaptainMcCrank/WinWifiBruteForce.git
 [Install Git](https://www.github.com/git-guides/install-git)
 
 You might find this video helpful on the [git clone](https://youtu.be/aHMPn57ZmJo) command.
-
-This is intended to be used with the [HackThisWifi project](https://hackthiswifi.patrickmccanna.net)
 
 
 
