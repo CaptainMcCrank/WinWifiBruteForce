@@ -73,7 +73,7 @@ I then used the following command to export the profile:
 netsh wlan export profile key=clear folder="FOLDER-PATH"
 ```
 
-I used the resulting file as a template for generating the correct password.  The one manual step that someone without forknowledge needs to take is to use the following command to get the hex value for the ssid:
+I used the resulting file as a template for generating the correct password.  The one manual step that someone without foreknowledge needs to take is to use the following command to get the hex value for the ssid:
 ```
 'HackThisWifi' | Format-Hex
 ```
