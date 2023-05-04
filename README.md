@@ -14,7 +14,7 @@ you can launch powershell in windows by clicking on the Search Icon and typing "
 
 You could copy and paste these files in your system, or you could:
 
-[Install Git](https://www.github.com/git-guides/install-git
+[Install Git](https://www.github.com/git-guides/install-git)
 
 Create your hacking directory
 
