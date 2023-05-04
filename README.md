@@ -65,8 +65,8 @@ I used a windows workstation to attach to the wifi network with the correct pass
 I then used the following command to list the current profiles:
 ```
 netsh wlan show profiles
-
 ```
+
 I then used the following command to export the profile:
 
 ```
